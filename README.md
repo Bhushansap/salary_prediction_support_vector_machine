@@ -1,3 +1,1 @@
-
-# Support-Vector-Machines_salary
-sdgfdtqwfdtfdtfd
+# salary_prediction_support_vector_machine
